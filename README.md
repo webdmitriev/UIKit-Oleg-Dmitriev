@@ -1,1 +1,1 @@
-# This is where I store sections of code - Exstensions and Functions
+# My little code - Exstensions and Functions
